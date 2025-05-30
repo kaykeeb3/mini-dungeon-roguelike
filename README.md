@@ -34,6 +34,6 @@ Mini Dungeon Game é um jogo simples de aventura e exploração em um labirinto 
 2. Execute o jogo com o comando:
 
    ```bash
-   pgzrun game.py
+   pgzrun main.py
    ```
 3. Use as setas do teclado para jogar.
