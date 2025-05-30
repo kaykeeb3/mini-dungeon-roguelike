@@ -30,7 +30,7 @@ Mini Dungeon Game é um jogo simples de aventura e exploração em um labirinto 
 
 ## Como Executar
 
-1. Salve o código do jogo em um arquivo `game.py`.
+1. Salve o código do jogo em um arquivo `main.py`.
 2. Execute o jogo com o comando:
 
    ```bash
